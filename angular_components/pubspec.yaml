@@ -14,17 +14,17 @@ dependencies:
   async: ^2.1.0
   build: ^2.1.0
   build_config: ^1.0.0
-  built_collection: ^4.0.0
-  collection: ^1.14.10
+  built_collection: ^5.0.0
+  collection: ^1.16.0
   fixnum: ^0.10.7
   intl: ^0.16.0
   js: ^0.6.1
   logging: ^1.0.2
   meta: ^1.0.4
   observable: ^0.23.0
-  protobuf: ^1.0.0
+  protobuf: ^2.0.0
   quiver: ^3.0.0
-  sass_builder: ^2.0.2
+  sass_builder: ^2.1.4
 
 dev_dependencies:
   path: ^1.6.1
